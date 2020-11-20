@@ -20,7 +20,3 @@ main <- function(opt) {
 }
 
 main(opt)
-
-
-
-
