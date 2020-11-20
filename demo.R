@@ -12,6 +12,11 @@ Options:
 
 library(docopt)
 opt <- docopt(doc)
-print(opt)
-print(typeof(opt))
-print(paste0("The value of <arg4> is: ", opt$arg4))
+
+main <- function(opt) {
+  print(opt)
+  print(typeof(opt))
+  print(paste0("The value of <arg4> is: ", opt$arg4))
+}
+
+main(opt)
