@@ -1,4 +1,4 @@
-# author: Tiffany Timbers
+# author: jingjing
 # date: 2020-01-15
 
 "This script prints out docopt args.
