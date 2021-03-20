@@ -2,12 +2,18 @@ Submitting Author:
 - Jingjing Zhi ([@zhijingjing1](https://github.com/zhijingjing1))
 - Fei Chang ([@fei-chang](https://github.com/fei-chang))
 - Mengyuan Zhu ([@Julie-M-Zhu](https://github.com/Julie-M-Zhu))
-Repository: ploteasyr
+ 
+Repository: [ploteasyr](https://github.com/UBC-MDS/ploteasyr/tree/master)
+
 Version submitted: v0.2.0 (TBD)
+
 Editor: <!--editor--> TBD <!--end-editor-->
+
 Reviewers: <!--reviewers-list--> TBD <!--end-reviewers-list-->
 <!--due-dates-list--><!--end-due-dates-list-->
+
 Archive: TBD
+
 Version accepted: TBD
 
 ---
@@ -94,7 +100,7 @@ The target audience would be people who are new to R and are interested in simpl
 
 -   Are there other R packages that accomplish the same thing? If so, how does yours differ or meet [our criteria for best-in-category](https://ropensci.github.io/dev_guide/policies.html#overlap)?
 
-There are other R packages that accomplish the similar thing such as "SmartEDA" or "ggplot". However, ploteasyr is more friendly to new learner of R and easier to understand. 
+There are other R packages that accomplish the similar thing such as "SmartEDA" or "ggplot". However, ploteasyr is more friendly to new learner of R, easier to understand and focus on three kinds of plots. 
 
 -   (If applicable) Does your package comply with our [guidance around _Ethics, Data Privacy and Human Subjects Research_](https://devguide.ropensci.org/policies.html#ethics-data-privacy-and-human-subjects-research)?
 
