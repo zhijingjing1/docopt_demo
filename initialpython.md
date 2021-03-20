@@ -27,9 +27,9 @@ Version accepted: TBD
 
 This is a python package that offers beginner-friendly functions to do data visualizations. The functions have build-in theme and other settings, which are complicated for the beginners of python but are compulsory for plotting in mainstream plotting packages like Altair. Also, potential users of Altair may take baby steps from PlotEasy, for its intuitive way to use and its similarity with the most well-know panda functions. PlotEasy can minimize the code when calling a plot in Python, and can path your journey to EDA as smooth as silk!
 
-- The function plot_hist() draw histogram plot
-- The function plot_scatter() draw scatter plot
-- The function plot_bar() draw bar plot
+- The function `plot_hist()` can draw histogram plot
+- The function `plot_scatter()` can draw scatter plot
+- The function `plot_bar()` can draw bar plot
 
 
 ## Scope 
