@@ -88,7 +88,7 @@ BugReports: https://github.com/UBC-MDS/ploteasyr/issues
 	- [ ] database software bindings
 	- [ ] geospatial data
 	- [ ] text analysis
-	- [x] data plotting  
+	- [x] data visualization  
 
 - Explain how and why the package falls under these categories (briefly, 1-2 sentences):
 
